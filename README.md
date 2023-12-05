@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A passionate data scientist from the US, currently living in Stockholm.</h3>
+<h3 align="center">A passionate data scientist, leveraging a blend of analytical skills and creative thinking which I specialize in to transform data into actionable insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathancolmenero&label=Profile%20views&color=0e75b6&style=flat" alt="nathancolmenero" /> </p>
 
